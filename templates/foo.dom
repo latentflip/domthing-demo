@@ -1,0 +1,1 @@
+<a style="{{link.style}}" href="{{link.url}}">{{ link.greeting }}</a>
