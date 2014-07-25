@@ -4,6 +4,7 @@
   "description": "",
   "main": "demo.js",
   "dependencies": {
+    "browserify": "^5.5.0",
     "domthing": "^0.0.1"
   },
   "devDependencies": {
